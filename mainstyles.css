@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: auto;
     padding: 0;
-    background-color: darkblue;
+    background-color: rgb(148, 148, 172);
 }
 
 header {
@@ -45,7 +45,7 @@ nav a {
 }
 
 .input-field {
-    width: 100%;
+    width: 50%;
     padding: 10px;
     margin-bottom: 20px;
     border: 1px solid #ccc;
@@ -54,7 +54,7 @@ nav a {
 .submit-btn {
     background-color: #4CAF50;
     color: #fff;
-    padding: 10px 20px;
+    padding: 10px 5px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
